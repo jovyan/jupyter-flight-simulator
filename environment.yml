@@ -1,0 +1,11 @@
+name: jupyter-flight-simulator
+channels:
+  - nodefaults
+  - conda-forge
+dependencies:
+  - jpeg >=9b
+  - gdal
+  - pythreejs
+  - matplotlib
+  - scipy
+  - scikit-image
