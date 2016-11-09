@@ -1,7 +1,7 @@
 name: jupyter-flight-simulator
 channels:
-  - nodefaults
   - conda-forge
+  - defaults
 dependencies:
   - jpeg >=9b
   - gdal
